@@ -1,3 +1,1 @@
-"# hola, groso"
-
-hoy estamos aprendiendo como funciona git
+Esta es una rama distinta del fork
